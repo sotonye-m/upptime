@@ -17,6 +17,15 @@ sites:
     url: https://kyc.yativo.com
   - name: Yativo Docs
     url: https://docs.yativo.com
+  - name: Crypto Balance Service
+    url: https://crypto-api.yativo.com/api/health/balance-service
+  - name: Crypto XDC WebSocket
+    url: https://crypto-api.yativo.com/api/health/xdc-websocket
+  - name: Yativo Fiat Health
+    url: https://api.yativo.com/api/health
+    __dangerous__body_down_if_text_missing: '"healthy"'
+  - name: Yativo Fiat Ping
+    url: https://api.yativo.com/api/health/ping
 
 status-website:
   cname: status2.yativo.com
