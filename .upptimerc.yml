@@ -5,7 +5,7 @@ sites:
   - name: Yativo Fiat API
     url: https://api.yativo.com
   - name: Yativo Crypto API
-    url: https://crypto-api.yativo.com
+    url: https://crypto-api.yativo.com/api/public/chains
   - name: Yativo Fiat Dashboard
     url: https://app.yativo.com
   - name: Yativo Crypto Dashboard
