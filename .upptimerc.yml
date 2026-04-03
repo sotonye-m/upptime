@@ -23,7 +23,7 @@ sites:
     url: https://crypto-api.yativo.com/api/health/xdc-websocket
   - name: Yativo Fiat Health
     url: https://api.yativo.com/up
-    __dangerous__body_down_if_text_missing: '"healthy"'
+    __dangerous__body_down_if_text_missing: 'Application up'
   # - name: Yativo Fiat Ping
   #   url: https://api.yativo.com/up
 
