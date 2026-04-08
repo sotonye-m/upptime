@@ -1,7 +1,7 @@
 url: https://api.yativo.com
-status: down
-code: 500
-responseTime: 480
-lastUpdated: 2026-04-08T19:42:13.145Z
+status: up
+code: 200
+responseTime: 4122
+lastUpdated: 2026-04-08T20:03:04.209Z
 startTime: 2026-04-02T12:05:05.490Z
 generator: Upptime <https://github.com/upptime/upptime>
