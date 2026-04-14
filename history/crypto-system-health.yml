@@ -1,7 +1,7 @@
 url: https://crypto-api.yativo.com/api/health/system
-status: down
+status: up
 code: 200
-responseTime: 22
-lastUpdated: 2026-04-14T15:57:46.023Z
+responseTime: 38
+lastUpdated: 2026-04-14T16:54:39.585Z
 startTime: 2026-04-02T12:05:13.695Z
 generator: Upptime <https://github.com/upptime/upptime>
