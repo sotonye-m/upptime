@@ -1,7 +1,7 @@
 url: https://crypto-api.yativo.com/api/public/chains
-status: up
-code: 200
-responseTime: 293
-lastUpdated: 2026-04-16T23:12:49.236Z
+status: down
+code: 502
+responseTime: 123
+lastUpdated: 2026-04-17T18:29:39.046Z
 startTime: 2026-04-02T12:05:10.676Z
 generator: Upptime <https://github.com/upptime/upptime>
