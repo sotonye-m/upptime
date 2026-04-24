@@ -1,7 +1,7 @@
 url: https://crypto-api.yativo.com/api/health/xdc-websocket
-status: up
-code: 200
-responseTime: 58
-lastUpdated: 2026-04-23T23:14:21.258Z
+status: down
+code: 429
+responseTime: 23
+lastUpdated: 2026-04-24T14:22:15.349Z
 startTime: 2026-04-02T14:04:56.518Z
 generator: Upptime <https://github.com/upptime/upptime>
